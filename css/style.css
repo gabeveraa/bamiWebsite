@@ -1,0 +1,51 @@
+body {
+    background-image: url(../img/mirror.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+}
+
+image {
+    height: auto;
+}
+
+
+/*navbar*/
+
+.nav {
+    list-style-type: none;
+    width: 100%;
+    overflow: hidden;
+    padding: 5px;
+    margin: 0px;
+}
+
+.nav-logo {
+    text-decoration: none;
+    display: block;
+    float: left;
+    padding: 10px;
+    padding-left: 15px;
+    /*color: white;*/
+    color: black;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-items {
+    text-decoration: none;
+    display: block;
+    float: right;
+    padding: 10px 20px;
+    /*color: white;*/
+    color: black;
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+}
+
+.nav-items:hover {
+    background-color: rgba(114, 113, 113, 0.774);
+}
+
+/*navbar*/
