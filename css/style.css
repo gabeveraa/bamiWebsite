@@ -19,6 +19,7 @@ image {
     overflow: hidden;
     padding: 5px;
     margin: 0px;
+    position: sticky;
 }
 
 .nav-logo {
@@ -49,3 +50,9 @@ image {
 }
 
 /*navbar*/
+
+/*footer*/
+
+
+
+/*footer*/
